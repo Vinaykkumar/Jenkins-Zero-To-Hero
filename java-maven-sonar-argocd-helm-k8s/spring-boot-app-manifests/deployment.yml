@@ -19,4 +19,3 @@ spec:
         image: abhishekf5/ultimate-cicd:48
         ports:
         - containerPort: 8080
-        
